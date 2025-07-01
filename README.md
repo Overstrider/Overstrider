@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, im Merlin (the OVERSTRIDER to the netizens) 👋 <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/wave.gif" width="30">
 
-<!--
-**Overstrider/Overstrider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👺 Interests**  
+- Low-level Programming
+- High-Performance & Low-Cost Web Development
+- Low-Latency Real-Time Communication Systems
+- MMORPGs
+- Cryptocurrency and Blockchain Development
+- Indie Game Development
 
-Here are some ideas to get you started:
+**🧰 Current stack**  
+<div>  
+  <img src="https://skillicons.dev/icons?i=go,python,rust" height="40" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Overstrider&theme=github_dark" />
