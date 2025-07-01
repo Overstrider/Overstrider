@@ -12,7 +12,3 @@
 <div>  
   <img src="https://skillicons.dev/icons?i=go,python,rust" height="40" />
 </div>
-
-<br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Overstrider&theme=github_dark" />
